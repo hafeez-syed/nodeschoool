@@ -1,0 +1,17 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-beep_boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafeez Syed",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "split2": "^3.2.2",
+    "through2": "^4.0.2"
+  }
+}
